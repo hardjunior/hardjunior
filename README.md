@@ -1,13 +1,16 @@
 # Oxé, tudo bão co cê, Sou Ivamar Júnior 👋
 
-## Aqui poderá encontrar um pouquinho sobre mim mas se houver dúvida é só falar, boa sorte
+## Aqui poderá encontrar um pouquinho sobre mim mas se houver dúvida é só falar!
+### Boa sorte ...
 
-- 🔭 Eu trabalho em uma empresa de transporte mas sou desenvolvedor
-- 🌱 Eu sempre estou acessível para aprender mais, pretendo aprender docker, nodejs, python e eletrónica 
-- 👯 Gostaria muito de colaborar para eficiência global ou pelo menos para os que eu conseguir 
+- 🔭 Hoje trabalho em uma empresa de transportes mas como desenvolvedor full-stack
+- 🌱 Desenvolvo em PHP, javascript mas sempre estou acessível para aprender mais, pretendo aprender docker, nodejs, python e eletrónica.
+Gostaria mesmo de trabalho com nodejs.
+- 👯 Ainda trabalho no windows mas ainda vou conseguir migrar para o Linux, assim que aprender docker(tipo eu brinco mais tenho ainda algumas dificuldades)! 
+Gostaria muito de colaborar para eficiência global ou pelo menos para os que eu conseguir 
 - 🤔 Procuro ajuda para encontrar equilibrio e/ou concentração
 - 💬 hum, Meus amores são meu filho e minha mulher 
-- 📫 Email: hardjunior1@gmail.com - Caso tenha dúvida ou puder ajudar não ezite 
+- 📫 Email: hardjunior1@gmail.com!
 - 😄 Sou extrovertido, mais sistemático. Gosto de ajudar, mas quem realmente precisa 
 - ⚡ Hobbies: Kitesurf e airsoft
 
@@ -24,7 +27,7 @@
   <img align="center" alt="hard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="hard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="hard-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="hard-yoda" src="https://github.com/hardjunior/hardjunior/blob/main/themegenerationgif.gif">
+  <img align="right" alt="hard-yoda" src="https://github.com/hardjunior/hardjunior/blob/main/img/hakuna%20matata.gif">
 </div>
   
   ##
