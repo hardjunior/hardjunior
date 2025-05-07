@@ -9,7 +9,7 @@ Gostaria mesmo de trabalho com nodejs.
 - 👯 Ainda trabalho no windows mas ainda vou conseguir migrar para o Linux, assim que aprender docker(tipo eu brinco mais tenho ainda algumas dificuldades)! 
 Gostaria muito de colaborar para eficiência global ou pelo menos para os que eu conseguir 
 - 🤔 Procuro ajuda para encontrar equilibrio e/ou concentração
-- 💬 hum, Meus amores são meu filho e minha mulher 
+- 💬 hum, Meus amores são meus filhos e minha mulher 
 - 📫 Email: hardjunior1@gmail.com!
 - 😄 Sou extrovertido, mais sistemático. Gosto de ajudar, mas quem realmente precisa 
 - ⚡ Hobbies: Kitesurf e airsoft
